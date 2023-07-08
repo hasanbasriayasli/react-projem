@@ -1,0 +1,28 @@
+.select-container {
+    text-align: center;
+    margin-bottom: 20px;
+    display: block;
+    background-color: yellow;
+  }
+  
+  .select-title {
+    font-size: 20px;
+    color: #333;
+  }
+  
+  .select-input {
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+    color: #333;
+    width: 100%;
+    display: block;
+  }
+  
+  .selected-option {
+    margin-top: 10px;
+    color: #666;
+  }
+  
